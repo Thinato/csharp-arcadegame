@@ -1,0 +1,9 @@
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\bin\Debug\lmaoGameZZ.exe.config
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\bin\Debug\lmaoGameZZ.exe
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\bin\Debug\lmaoGameZZ.pdb
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\obj\Debug\lmaoGameZZ.csprojAssemblyReference.cache
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\obj\Debug\lmaoGameZZ.Form1.resources
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\obj\Debug\lmaoGameZZ.Properties.Resources.resources
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\obj\Debug\lmaoGameZZ.csproj.GenerateResource.cache
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\obj\Debug\lmaoGameZZ.exe
+C:\Users\pioki\source\repos\lmaoGameZZ\lmaoGameZZ\obj\Debug\lmaoGameZZ.pdb
